@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Noticias tecnológicas 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las nuevas y más recientes noticias del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Tue, 04 Feb 2025 18:20:00 GMT</pubDate>
+        <lastBuildDate>Tue, 04 Feb 2025 18:20:00 GMT</lastBuildDate>
+
+        <!-- Enlace Atom requerido -->
+        <atom:link href="https://www.ejemplo.com/rss" rel="self" type="application/rss+xml" />
+
+        <item>
+            <title>La nueva IA procedente de China</title>
+            <link>https://elpais.com/tecnologia/2025-01-30/deepseek-no-es-un-juego-el-peligro-para-la-privacidad-de-la-nueva-ia-china.html</link>
+            <description>Esta IA llamada Deepseek planea destronar al gran ChatGPT.</description>
+            <pubDate>Tue, 04 Feb 2025 18:08:00 GMT</pubDate>
+            <guid isPermaLink="true">https://elpais.com/tecnologia/2025-01-30/deepseek-no-es-un-juego-el-peligro-para-la-privacidad-de-la-nueva-ia-china.html</guid>
+            <category>Inteligencia Artificial</category>
+            <enclosure url="https://www.laregion.es/asset/thumbnail,1920,1080,center,center/media/laregion/images/2025/01/27/2025012721251398115.jpg" type="image/jpeg" length="12345"/>
+            <author>Manuel Fernandez Caro &lt;manuelfernandezcaro2004@gmail.com&gt;</author>
+        </item>
+
+        <item>
+            <title>Ciberseguridad, el juego multimillonario del gato y el ratón.</title>
+            <link>https://elpais.com/economia/negocios/2025-01-29/ciberseguridad-el-juego-multimillonario-del-gato-y-el-raton.html</link>
+            <description>El avance rápido de la tecnología choca con regulaciones sobrepasadas que comprometen la inversión.</description>
+            <pubDate>Tue, 04 Feb 2025 18:17:00 GMT</pubDate>
+            <guid isPermaLink="true">https://elpais.com/economia/negocios/2025-01-29/ciberseguridad-el-juego-multimillonario-del-gato-y-el-raton.html</guid>
+            <category>Ciberseguridad</category>
+            <enclosure url="https://imagenes.elpais.com/resizer/v2/FVMF3BISQVBJJFDEM3JDTZDOFQ.jpg" type="image/jpeg" length="12345"/>
+            <author>Manuel Fernandez Caro &lt;manuelfernandezcaro2004@gmail.com&gt;</author>
+        </item>
+
+        <item>
+            <title>Criptomonedas, mentiras y ciberesclavos: así funcionan los centros de estafas del sudeste de Asia.</title>
+            <link>https://elpais.com/planeta-futuro/2025-01-12/criptomonedas-mentiras-y-ciberesclavos-asi-funcionan-los-centros-de-estafas-del-sudeste-de-asia.html</link>
+            <description>Decenas de miles de personas permanecen cautivas en países como Camboya o Myanmar trabajando las 24 horas del día para engañar a víctimas en busca de amor a través de aplicaciones de citas y redes sociales al otro lado del mundo.</description>
+            <pubDate>Tue, 04 Feb 2025 18:20:00 GMT</pubDate>
+            <guid isPermaLink="true">https://elpais.com/planeta-futuro/2025-01-12/criptomonedas-mentiras-y-ciberesclavos-asi-funcionan-los-centros-de-estafas-del-sudeste-de-asia.html</guid>
+            <category>Ciberseguridad</category>
+            <enclosure url="https://imagenes.elpais.com/resizer/v2/XOKP4JATIRBLXPKMFRXRLWY3CY.jpg" type="image/jpeg" length="12345"/>
+            <author>Manuel Fernandez Caro &lt;manuelfernandezcaro2004@gmail.com&gt;</author>
+        </item>
+
+    </channel>
+</rss>
