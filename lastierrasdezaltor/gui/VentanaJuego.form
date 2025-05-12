@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.miempresa.ejercicios.lastierrasdezaltor.gui.VentanaJuego">
+  <grid id="27dc6" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="6" y="12" width="727" height="633"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="cc404" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="1" height="1"/>
+            <preferred-size width="3" height="3"/>
+            <maximum-size width="10" height="10"/>
+          </grid>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <background color="-263169"/>
+          <enabled value="false"/>
+          <font name="Courier New" size="16"/>
+          <foreground color="-16382458"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
